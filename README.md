@@ -120,3 +120,4 @@ Open: http://localhost:5000
 | PATCH | /api/playlists/:id/add-song | Add song |
 | DELETE | /api/playlists/:id | Delete playlist |
 # Music-Player
+# Music-Player
