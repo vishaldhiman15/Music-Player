@@ -39,7 +39,7 @@ npm install
 
 ### 2. Configure `.env`
 ```env
-MONGO_URI=mongodb+srv://user:pass@cluster.mongodb.net/vishal-media
+MONGO_URI=// you can use atlas for online store mongo data 
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
